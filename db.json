@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "f996",
+      "stuname": "munna",
+      "email": "munna@12345"
+    },
+    {
+      "id": "acdc",
+      "stuname": "sa",
+      "email": "damansampli@gmail.com"
+    },
+    {
+      "id": "4c71",
+      "stuname": "sasa",
+      "email": "testuser@example.com"
+    },
+    {
+      "id": "ab01",
+      "stuname": "sASA",
+      "email": "sandy@gmail.com"
+    },
+    {
+      "id": "98a0",
+      "stuname": "GFHDF",
+      "email": "damansampli@gmail.com"
+    }
+  ]
+}

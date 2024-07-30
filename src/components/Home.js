@@ -1,7 +1,7 @@
 import { Typography, Box, Grid, Button, TextField } from "@mui/material";
 import List from "./students/List";
 
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import axios from "axios";
  
 function Home() {
